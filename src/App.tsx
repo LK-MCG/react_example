@@ -10,6 +10,7 @@ function App() {
       <div>
 
         <h1>the first commit</h1>
+        <h2>this the branch example</h2>
         
       </div>
       <h1>Vite + React</h1>
