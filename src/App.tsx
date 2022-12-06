@@ -11,6 +11,7 @@ function App() {
 
         <h1>the first commit</h1>
         <h2>this the branch example</h2>
+        <h3>this is the 3rd commit</h3>
         
       </div>
       <h1>Vite + React</h1>
